@@ -1,18 +1,19 @@
 # Belajar V1
-DBMS (Database Management System) meliputi
+> DBMS (Database Management System) meliputi
+
 	1. DDL (Data Definition Language)
-	..* Create
-	..* Drop
-	..* Alter
+		- Create
+		- Drop
+		- Alter
 	2. DML (Data Manipulation Language)
-	..* Insert
-	..* Select
-	..* Update
-	..* Delete
+		- Insert
+		- Select
+		- Update
+		- Delete
 	3. DCL (Data Control Language)
-	..* Add
-	..* Grant
-	..* Revoke
+		- Add
+		- Grant
+		- Revoke
 
 Isi dari Database adalah table fakultas dan jurusan dengan relasi one-to-many
 cara menjalankan web yaitu
